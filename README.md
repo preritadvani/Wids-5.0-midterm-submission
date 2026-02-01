@@ -1,4 +1,4 @@
-# Wids-5.0-midterm-submission
+# Wids-5.0-endterm-submission
 
 # The Repository consists of 3 assignments.
 <br>
